@@ -2,5 +2,12 @@
 .date-title {
     color: #000 !important;
     font-weight: 700 !important;
+{
+.mat-focus-indicator
+.mat-menu-trigger
+.action-button
+.mat-stroked-button
+.mat-button-base
+.ng-star-inserted {
+display:none; !important
 }
-.mat-focus-indicator .mat-menu-trigger .action-button .mat-stroked-button .mat-button-base .ng-star-inserted {display:none; !important}
